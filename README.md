@@ -1,5 +1,5 @@
 # Low-Level Resources
-![Surfing Wizard](./surfing wizard.jpg)
+![Surfing Wizard](https://github.com/CarbonBasedDudeform/low-level-resources/blob/main/surfing%20wizard.jpg?raw=true)
 
 Resources for learning various low-level and nefarious computer activities. 
 Mostly focused on security (app sec, exploit dev, malware dev, vulnerability research), games (networking, engine dev, graphics), and programming languages (C/C++/Rust/Asm).
