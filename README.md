@@ -28,7 +28,7 @@ Mostly focused on security (app sec, exploit dev, malware dev, vulnerability res
 - [malware and exploit resources](https://github.com/evilbuffer/malware-and-exploitdev-resources)
 
 ## Reverse Engineering
-[Reverse Engineering for Beginners by Dennis Yurichev](https://beginners.re)
+- [Reverse Engineering for Beginners by Dennis Yurichev](https://beginners.re)
 
 # Game Development
 
