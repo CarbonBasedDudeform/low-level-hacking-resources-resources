@@ -9,6 +9,7 @@ Mostly focused on security (app sec, exploit dev, malware dev, vulnerability res
 ## General
 - [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources?tab=readme-ov-file#malware-analysis)
 - [VX-underground: malware thigns](https://vx-underground.org)
+- [Shell Storm - articles on various low level fields](https://shell-storm.org)
 
 ## Low Level Workings
 - [Pointer Authentication](https://github.com/apple/llvm-project/blob/apple/main/clang/docs/PointerAuthentication.rst)
